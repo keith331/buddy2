@@ -1,0 +1,6 @@
+Serial #:	SensitivityL		x data lin	y data dB	z data lin		x axis log	y axis lin	z axis lin			dB re 1 FS/Pa	deg.	
+D9Z0ZPW003944117947600	NaN													
+D9Z0ZPW003944117947600	-12.87													
+Serial #:	SensitivityR		x data lin	y data dB	z data lin		x axis log	y axis lin	z axis lin			dB re 1 FS/Pa	deg.	
+D9Z0ZPW003944117947600	NaN													
+D9Z0ZPW003944117947600	-45.25													
